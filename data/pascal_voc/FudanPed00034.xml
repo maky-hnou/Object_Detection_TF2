@@ -1,0 +1,26 @@
+<annotation>
+	<folder/>
+	<filename>FudanPed00034.jpg</filename>
+	<path>../../yolo//FudanPed00034.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>309</width>
+		<height>351</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ped</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>110</xmin>
+			<ymin>36</ymin>
+			<xmax>253</xmax>
+			<ymax>329</ymax>
+		</bndbox>
+	</object>
+</annotation>

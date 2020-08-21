@@ -1,0 +1,26 @@
+<annotation>
+	<folder/>
+	<filename>PennPed00091.jpg</filename>
+	<path>../../yolo//PennPed00091.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>372</width>
+		<height>324</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ped</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>212</xmin>
+			<ymin>25</ymin>
+			<xmax>336</xmax>
+			<ymax>320</ymax>
+		</bndbox>
+	</object>
+</annotation>
