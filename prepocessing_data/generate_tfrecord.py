@@ -15,9 +15,9 @@ from collections import namedtuple
 
 from PIL import Image
 
-import utils
 import pandas as pd
 import tensorflow as tf
+import utils
 
 flags = tf.compat.v1.flags
 flags.DEFINE_string('csv_input', '', 'Path to the CSV input')
@@ -26,15 +26,6 @@ flags.DEFINE_string('image_dir', '', 'Path to images')
 flags.DEFINE_string('label_map', '', 'Path to labelmap')
 FLAGS = flags.FLAGS
 
-
-# TO-DO replace this with label map
-# def class_text_to_int(row_label):
-#     if row_label == 'ball':
-#         return 1
-#     elif row_label == 'goal post':
-#         return 2
-#     else:
-#         None
 
 def class_text_to_int(labelmap_file, row_label):
     try:
