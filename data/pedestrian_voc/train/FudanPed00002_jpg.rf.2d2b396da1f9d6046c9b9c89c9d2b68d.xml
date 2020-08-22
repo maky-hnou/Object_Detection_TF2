@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>FudanPed00002_jpg.rf.2d2b396da1f9d6046c9b9c89c9d2b68d.jpg</filename>
+	<path>FudanPed00002_jpg.rf.2d2b396da1f9d6046c9b9c89c9d2b68d.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>410</width>
+		<height>410</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ped</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>242</xmin>
+			<xmax>355</xmax>
+			<ymin>88</ymin>
+			<ymax>377</ymax>
+		</bndbox>
+	</object>
+</annotation>
