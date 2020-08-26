@@ -1,0 +1,17 @@
+valid/FudanPed00001_jpg.rf.546a993cb1d94d443dce2da7244e5a9c.jpg
+valid/PennPed00009_jpg.rf.33d8dd0d4b8b30788db59271446de104.jpg
+valid/PennPed00076_jpg.rf.68166658786dfed63899b0e39bd3c29b.jpg
+valid/FudanPed00035_jpg.rf.8c2686bad7dfe10ad65f4ff20276e713.jpg
+valid/PennPed00005_jpg.rf.e4d1a9f15ca39719672ee8dd60073302.jpg
+valid/FudanPed00050_jpg.rf.ec72a623a31424b2aa90b237373b2e14.jpg
+valid/PennPed00001_jpg.rf.0a1580c801914b99ede70c5e992a3dfa.jpg
+valid/FudanPed00064_jpg.rf.3dd5661d5fbf7adfa284fd369545bd49.jpg
+valid/PennPed00045_jpg.rf.3f88ee3cfa877873b4f4ca2af296014f.jpg
+valid/FudanPed00067_jpg.rf.f34dc3e1a2da106cdd232197a566a6f6.jpg
+valid/FudanPed00072_jpg.rf.108d8030a83de40a315f24210b871e1a.jpg
+valid/FudanPed00038_jpg.rf.7f02776b4ec28e4e6f2f5d773c5ba5c1.jpg
+valid/FudanPed00022_jpg.rf.d169782f3a34eb7027e6718623740f78.jpg
+valid/PennPed00020_jpg.rf.a972daf11c96efe79ca3be0f17f55e45.jpg
+valid/FudanPed00046_jpg.rf.4e404d5e266c79887fd41c5a10e8e726.jpg
+valid/PennPed00049_jpg.rf.dd55ccef87aa35f62d090cfc7112647f.jpg
+valid/PennPed00037_jpg.rf.8c374b7f28eb2ea4f0122d54786b675a.jpg
